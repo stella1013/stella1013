@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    # - cron: '0 * * * *'
+    # Runs daily
+    - cron: '0 0 * * *'
     
   workflow_dispatch:
 
@@ -11,8 +11,4 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: 
-      - uses: 
-        with:
-          max_post_count: "4"
-          feed_list: 
+      - uses: stella1013/blog-post-workflow@master
