@@ -1,6 +1,8 @@
 ### Hi there 👋
 <div id="header" align="center">
   <div id="badges">
+  <a href="https://stella1013.github.io/">
+      <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     <a href="https://www.linkedin.com/in/veronica-preston-74068a7/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
