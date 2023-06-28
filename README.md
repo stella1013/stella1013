@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## 🔭 I’m currently working on ...
-I'm not here much due to being busy with the day job and my two Standard Poodles. However, if you are curious about my skills, I've started a project close to my heart ❤️
+I'm not here much due to being busy with the day job and my two Standard Poodles. 
+<br/>
+However, if you are curious about my skills, I've started a project close to my heart ❤️
 <br/>
 Yes, a to-do list.
 <br/>
@@ -8,10 +10,12 @@ I love lists. They keep me organized and focused. Over the years I've found a sy
 
 <br/>
 Well, now I plan to digitize it. I hope you will stick with me on this journey of creating my ultimate to-do list.
+<br/>
+[To-Do List Repo](https://github.com/stella1013/Todo-List)
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning: All things TypeScript
-- ⚡ Fun facts: Korean Language Enthusiast, Avid Knitter, and horrible dog groomer
+- ⚡ Fun facts: Korean Language Enthusiast, Avid Knitter, and making cute dogs ugly with my at home dog grooming skills.
 - 📫 How to reach me: relativelydarling@gmail.com
 
 <div id="header" align="center">
