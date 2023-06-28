@@ -1,16 +1,15 @@
 ### Hi there 👋
 ## 🔭 I’m currently working on ...
-I'm not here much due to being busy with the day job and my two Standard Poodles. 
-<br/>
+I'm not here much due to being busy with the day job and my two Standard Poodles.
+
 However, if you are curious about my skills, I've started a project close to my heart ❤️
-<br/>
+
 Yes, a to-do list.
-<br/>
+
 I love lists. They keep me organized and focused. Over the years I've found a system that works for me. That system is my trusty Bullet Journal.
 
-<br/>
 Well, now I plan to digitize it. I hope you will stick with me on this journey of creating my ultimate to-do list.
-<br/>
+
 [To-Do List Repo](https://github.com/stella1013/Todo-List)
 
 - 😄 Pronouns: She/Her
