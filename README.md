@@ -14,7 +14,10 @@ Well, now I plan to digitize it. I hope you will stick with me on this journey o
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning: All things TypeScript
-- ⚡ Fun facts: Korean Language Enthusiast, Avid Knitter, and making cute dogs ugly with my at home dog grooming skills.
+- ⚡ Fun facts:
+  - Korean Language 안녕하세요!
+  - Avid Knitter
+  - Making cute dogs ugly with my at home dog grooming skills.
 - 📫 How to reach me: relativelydarling@gmail.com
 
 <div id="header" align="center">
