@@ -8,6 +8,7 @@ I love lists. They keep me organized and focused. Over the years I've found a sy
 
 <br/>
 Well, now I plan to digitize it. I hope you will stick with me on this journey of creating my ultimate to-do list.
+
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning: All things TypeScript
 - ⚡ Fun facts: Korean Language Enthusiast, Avid Knitter, and horrible dog groomer
@@ -52,23 +53,4 @@ Well, now I plan to digitize it. I hope you will stick with me on this journey o
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stella1013&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-**stella1013/stella1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 
-- ⚡ Fun fact: ...
 -->
