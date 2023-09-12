@@ -2,15 +2,7 @@
 ## 🔭 I’m currently working on ...
 I'm not here much due to being busy with the day job and my two Standard Poodles.
 
-However, if you are curious about my skills, I've started a project close to my heart ❤️
-
-Yes, a to-do list.
-
-I love lists. They keep me organized and focused. Over the years I've found a system that works for me. That system is my trusty Bullet Journal.
-
-Well, now I plan to digitize it. I hope you will stick with me on this journey of creating my ultimate to-do list.
-
-[To-Do List Repo](https://github.com/stella1013/Todo-List)
+However, feel free to take a look around at some of my dabblings.
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning: All things TypeScript
