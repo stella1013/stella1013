@@ -4,14 +4,6 @@ I'm not here much due to being busy with the day job and my two Standard Poodles
 
 However, feel free to take a look around at some of my dabblings.
 
-- 😄 Pronouns: She/Her
-- 🌱 I’m currently learning: All things TypeScript
-- ⚡ Fun facts:
-  - Korean Language 안녕하세요!
-  - Avid Knitter
-  - Making cute dogs ugly with my at home dog grooming skills.
-- 📫 How to reach me: relativelydarling@gmail.com
-
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/veronica-preston-74068a7/">
