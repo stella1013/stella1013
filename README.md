@@ -1,8 +1,5 @@
 ### Hi there 👋
-## 🔭 I’m currently working on ...
-I'm not here much due to being busy with the day job and my two Standard Poodles.
-
-However, feel free to take a look around at some of my dabblings.
+## 🔭 Feel free to take a look around at some of my code musings and dabblings.
 
 <div id="header" align="center">
   <div id="badges">
